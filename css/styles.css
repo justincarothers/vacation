@@ -1,3 +1,11 @@
-#problemchild{
+body {
+  background-image: url("img/background.jpg");
+}
 
+.jumbotron {
+  background: rgba(100,100,255,.6);
+}
+
+.navbar{
+  background: rgba(100,100,100,.6);
 }
